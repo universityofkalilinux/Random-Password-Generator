@@ -22,3 +22,8 @@ User Notification: After successfully generating and saving the password list, t
 
 Usage:
 This program can be useful for security professionals, educators, or anyone interested in understanding password generation techniques and the importance of using varied character types in creating strong passwords.
+
+
+How to Use it:
+git clone https://github.com/universityofkalilinux/WebAdminFinder.git
+sudo python randompasswordgenerator.py
